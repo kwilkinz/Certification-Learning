@@ -21,6 +21,11 @@ Cloud Technology (AWS, Azure, Google Cloud, Linux, Containers)
 ## Certification-Levels 
 #### 1. AWS Certified Cloud Practitioner
 > _is optional foundational level step that prepares users for a higher level associate certification and professional level. This certification exam is designed to test show core knowledge of AWS cloud at a broad level._
+>
+> 26% of questions will be Cloud Concepts: cloud value propostition, cloud economics, cloud architecture 
+> 33% of questions will be Technology : deployments and operations, global infrastructure, AWS services
+> 25% of questions will be Security and Compliance 
+> 16% of questions will be Billing and Pricing : pricing models, account structures, pricing, billing support
 
 #### 2. Associate Level
 > _step up ( considerable measure up) from foundational (practioner). These certifications cover a broad spectrum of AWS at mid-level depth._
