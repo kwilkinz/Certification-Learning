@@ -78,6 +78,18 @@
 -------
 
 ### **Describe the Consumption-based Model:**
+#### 2 Types of of IT Infrastructure Models: 
+* Capital expenditure (CapEx) and operational expenditure (OpEx).
+
+#### Capital expenditure (CapEx):
+* typically a one-time, up-front expenditure to purchase or secure tangible resources.
+* A new building, repaving the parking lot, building a datacenter, or buying a company vehicle are examples of CapEx.
+
+#### Operational Expenditure (OpEx):
+* is spending money on services or products over time.
+* Renting a convention center, leasing a company vehicle, or signing up for cloud services are all examples of OpEx.
+
+#### Cloud Computing
 
 
 -----
@@ -87,27 +99,3 @@
 #### Describe different cloud services
 
 ### Building blocks of cloud services
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### * Compare cloud pricing model: 
-
-### Describe Azure Architecture and Services (35-40% of Exam):
-
-### Describe Azure Management and Governance (30-35% of Exam):
