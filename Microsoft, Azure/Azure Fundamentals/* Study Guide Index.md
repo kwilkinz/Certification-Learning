@@ -12,6 +12,13 @@ This guide is intended to provide a list of pre-selected materials to help anyon
 
 ## 📝 Skills Measured - [Obtained from the official link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
 
+------
+## 📋 What is Azure Fundamentals? 
+* _Microsoft Azure is a cloud computing platform_
+* _Azure also supports running fully virtualized computers managing your custom software solutions._
+* _Azure provides cloud-based services like Remote Storage, Database Hosting, and Centralized Account Management._
+* _Azure also now offers Artifical Intelligence (AI) and Internet of Things (loT) focused services._
+-------
 ### 💡 Describe cloud concepts (25–30%)
 
 #### I. Describe cloud computing
