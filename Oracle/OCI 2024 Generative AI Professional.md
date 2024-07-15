@@ -231,3 +231,22 @@
 - A) It reduces the model size
 - B) It adapts the model to specific needs and improves performance on targeted tasks (*)
 - C) It eliminates the need for GPUs
+
+**Q38: What are the main considerations when setting up AI clusters in OCI?**
+- A) CPU and memory requirements only
+- B) GPU capabilities, memory, and storage needs (*)
+- C) Network bandwidth only
+- D) Software licenses only
+
+**Q39: Which aspect of OCI Generative AI Service ensures data integrity?**
+- A) Data is stored in plain text
+- B) Use of robust encryption methods (*)
+- C) Open access policies
+- D) Lack of monitoring tools
+
+**Q40: What is an essential practice when creating model endpoints for inference?**
+- A) Using minimal security measures
+- B) Ensuring high availability and scalability (*)
+- C) Limiting access to a single user
+- D) Avoiding regular updates
+
